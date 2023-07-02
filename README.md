@@ -5,3 +5,6 @@ Tired of having to set Beatsaber to high or realtime in the task manager every t
 
 ## Usage
 Just open it after launching Beat Saber. If it is not runned as administrator, the priority will be set in High instead of Realtime (windows fault)
+
+## Update!!!
+download https://github.com/Arimodu/PrioritySetter instead
